@@ -1,0 +1,72 @@
+.box {
+    padding-left: 183px;
+    padding-bottom: 47px;
+    padding-right: 0px;
+    padding-top: 113px;
+    background-color: antiquewhite;
+    height: 500px;
+    width: 1165px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+.smallbox{
+    height: 500px;
+    width: 1000px;
+    box-shadow: black 15px 15px 15px;
+
+}
+.Login{
+    background-color: whitesmoke;
+    float: left;
+    height: 500px;
+    width: 500px;
+    
+}
+.Signup{
+    background-color: red;
+    float: right;
+    height: 500px;
+    width: 500px;
+
+}
+.text1{
+    color: red;
+}
+.text2{
+    color: red;
+}
+.text11{
+    color: whitesmoke;
+}
+.text21{
+    color: whitesmoke;
+}
+.submit{
+    height: 34px;
+    width: 80px;
+    background-color: red;
+}
+.register{
+    height: 34px;
+    width: 80px;
+    background-color: whitesmoke;
+}
+.inp1 {
+    height: 38px;
+    width: 193px;
+    background-color: red;
+    
+}
+.inp11{
+    height: 38px;
+    width: 193px;
+    background-color: whitesmoke;
+}
+.inp11::placeholder{
+    color: red;
+}
+.inp1::placeholder{
+    color: whitesmoke;
+}
